@@ -3,9 +3,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>ATCO Group</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ __('content.description') }}" />
-    <meta name="keywords" content="{{ __('content.keywords') }}" />
-    <meta name="author" content="{{ __('content.author') }}" />
+    <meta name="description" content="ATCO Group" />
+    <meta name="keywords" content="ATCO Group" />
+    <meta name="author" content="ATCO Group" />
 
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content="" />
