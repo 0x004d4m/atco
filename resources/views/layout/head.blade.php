@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ __('content.title') }}</title>
+    <title>ATCO Group</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ __('content.description') }}" />
     <meta name="keywords" content="{{ __('content.keywords') }}" />

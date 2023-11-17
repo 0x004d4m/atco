@@ -18,9 +18,9 @@
         @include('partials.projects_organization_chart')
         @include('partials.clientele')
         @include('partials.contact')
-        <div class="container-fluid">
+        {{-- <div class="container-fluid">
             @include('layout.footer')
-        </div>
+        </div> --}}
         @include('layout.scripts')
     </body>
 </html>
